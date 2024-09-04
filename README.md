@@ -3,7 +3,7 @@
 
 ![alt text](https://github.com/JamBelg/Time-Series-Forecasting-with-Python/blob/main/Seasonal%20decomposition.png)
 
-[alt text](https://github.com/JamBelg/Time-Series-Forecasting-with-Python /blob/main/models_MAE.png)
+![alt text](https://github.com/JamBelg/Time-Series-Forecasting-with-Python/blob/main/models_MAE.png)
 
 Bar chart shows a comparison of the Mean Absolute Error (MAE) for different models, including Baseline, ARIMA, Random Forest, LightGBM, XGBoost, and LSTM.
 Among these, the LSTM model has the lowest MAE, indicating the best performance.
